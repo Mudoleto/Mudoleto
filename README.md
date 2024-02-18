@@ -2,7 +2,7 @@
 
 # Sobre mi: 
 
-:snowflake: Tecnico en refrigeracion domestica y industrial :snowman:  
+:snowflake: Tecnico en refrigeracion domestica e industrial :snowman:  
 :electric_plug: Tecnico electricista  
 :knife: Tenico en basculas en general :cow:  
 :computer: Ingeniero en sistemas computacionales y programador
