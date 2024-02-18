@@ -7,7 +7,7 @@
 :knife: Tenico en basculas en general :cow:  
 :computer: Ingeniero en sistemas computacionales y programador
 
-:snowman_with_snow: Cuento con mas de 5 años de experiencia en mis tres primeras areas, desempeñandome con exito en los trabajos que se me otorguen, brindando soluciones optimas a mis clientes. :snowman:  
+:snowman_with_snow: Cuento con mas de 5 años de experiencia en mis tres primeras areas, desempeñandome con exito en los trabajos que se me han otorgado, brindandole a mis clientes soluciones optimas. :snowman:  
 
 # Redes Sociales
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/sergio.sandovalgarcia.315)
