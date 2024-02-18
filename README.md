@@ -9,6 +9,10 @@
 
 :snowman_with_snow: Cuento con mas de 5 años de experiencia en mis tres primeras areas, desempeñandome con exito en los trabajos que se me han otorgado, brindandole a mis clientes soluciones optimas. :snowman:  
 
+# Contacto
+:email: sergio.sandoval83@hotmail.com
+
+
 # Redes Sociales
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/sergio.sandovalgarcia.315)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/sergio5xg)
