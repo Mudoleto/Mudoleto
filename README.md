@@ -12,7 +12,7 @@
 # Redes Sociales
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/sergio.sandovalgarcia.315)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/sergio5xg)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white))
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](![YouTube](https://www.youtube.com/@mudoleto7485))
 
 # Tecnologias conocidas :computer:
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,arduino,bash,linux,github,git,raspberrypi,vim,powershell)](https://skillicons.dev)
