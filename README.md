@@ -13,7 +13,7 @@
 :email: sergio.sandoval83@hotmail.com
 
 
-# Redes Sociales
+# Canal
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@mudoleto7485)
 
 # Tecnologias conocidas :computer:
